@@ -63,7 +63,7 @@ Previous_week_Reveneue = CALCULATE(
 
 ## Dashboard
 ![image](https://github.com/aniketsharma345/Credit-Card-Dashboard/blob/main/capture%201.PNG)
-![image](https://github.com/aniketsharma345/Credit-Card-Dashboard/blob/main/Capture%202.PNG)
+![image](https://github.com/aniketsharma345/Credit-Card-Dashboard/blob/main/Capture%202.png)
 
 
 
